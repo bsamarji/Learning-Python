@@ -1,7 +1,8 @@
-# Python_Coursework
- 
+# Forest Fire Simulation
+This project was some coursework that I did at Univeristy which creates a simulation of a forest fire using cellular automata. I have added the report and the 2 models I created for the project. Below you can find more information on the project.
+
 ## Where to start:
-- The report is named BIOLM0032_Report_1718673. It is 4 pages long and explains in detail the forest fire model and the analysis of the steady-state. 
+- The report is named Cellular_Automata_Report. It is 4 pages long and explains in detail the forest fire model and the analysis of the steady-state. 
 - In the scripts folder you will find 6 python scripts. They were made in JuptyerLab so will probably run best in JuptyerLab. 
 - The 6 scripts are all fairly similar but do slightly different things. 
 - forest_fire_sim1.py and forest_fire_sim2.py have the code which creates the simulation of the forest-fire and the specific rules. They also plot the steady-state graphs. 
